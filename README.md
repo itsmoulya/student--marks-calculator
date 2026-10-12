@@ -18,4 +18,4 @@ This is my first Python project. It calculates the total marks and percentage of
 - Lists and loops
 - Calculations
 - Displaying output
--# student--marks-calculator
+  
